@@ -1,0 +1,5 @@
+cd ~/wa-mass-report
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/abdulharis6594-comits/wa-mass-report.git
