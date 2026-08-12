@@ -16,6 +16,6 @@ git init
 git add .
 git commit -m "Initial commit"
 git remote add origin
-gitclone https://github.com/abdulharis6594-commits/wa-mass-report.git
+gitclone https://github.com/abdulharis6594-/wa-mass-report.git
 git branch -M main
 git push -u origin main
